@@ -1,9 +1,15 @@
-# Módulo 1 · Fundamentos
+# 01 · Fundamentos
 
-Objetivo: entender cómo se estructura y ejecuta un programa Go y cómo representa y transforma datos.
+[Inicio](../../README.md) · [Roadmap](../../ROADMAP.md)
 
-Temas previstos: estructura de un programa, variables y constantes, tipos, funciones y múltiples valores de retorno, control de flujo, arrays, slices y maps.
+Estudia en el orden siguiente. Cada tema tiene ejemplos, dos ejercicios y respuestas conceptuales separadas.
 
-Estado: primera lección pendiente de presentar; comprensión pendiente de evaluar.
-
-Empieza por [01-first-program](exercises/01-first-program/README.md). Los demás temas se desarrollarán después de revisar la implementación y comprobar comprensión. No hay avance automático.
+- [01 · Filosofía e historia](01-philosophy.md)
+- [02 · Compilador, binario y runtime](02-compilation.md)
+- [03 · Estructura de un programa](03-program.md)
+- [04 · Packages y modules](04-packages.md)
+- [05 · Variables, constantes y tipos](05-types.md)
+- [06 · Operadores y control de flujo](06-flow.md)
+- [07 · Funciones y retornos](07-functions.md)
+- [08 · Arrays, slices y maps](08-collections.md)
+- [09 · Strings, bytes y runes](09-text.md)
